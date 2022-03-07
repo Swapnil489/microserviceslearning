@@ -1,0 +1,9 @@
+git checkout https://github.com/Swapnil489/microserviceslearning.git
+git branch phase1
+
+git branch -a
+git status
+
+git add -A
+git commit -m "any message"
+git push
