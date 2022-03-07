@@ -6,4 +6,5 @@ git status
 
 git add -A
 git commit -m "any message"
+git pull 
 git push
