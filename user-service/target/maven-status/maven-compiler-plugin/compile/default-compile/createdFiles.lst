@@ -1,3 +1,4 @@
+com\basic\userservice\configuration\PropertyConfiguration.class
 com\basic\userservice\UserServiceApplication.class
 com\basic\userservice\controller\UserServiceController.class
 com\basic\userservice\model\User.class
