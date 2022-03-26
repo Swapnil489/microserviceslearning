@@ -4,3 +4,5 @@ http://localhost:1001/user-service/user/2
 
 
 http://localhost:1002/registration-service/registration/swapnil/icici
+
+http://localhost:8000/admin-service/applications
